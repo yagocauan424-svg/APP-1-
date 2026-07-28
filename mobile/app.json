@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "1%",
+    "slug": "zone-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/icon.png",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yagocauan424.zone"
+    },
+    "android": {
+      "package": "com.yagocauan424.zone",
+      "softwareKeyboardLayoutMode": "resize",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0a0a0c"
+      }
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "kotlinVersion": "1.9.25",
+            "enableProguardInReleaseBuilds": true,
+            "enableShrinkResourcesInReleaseBuilds": true
+          }
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash.png",
+          "resizeMode": "contain",
+          "backgroundColor": "#0a0a0c",
+          "imageWidth": 200
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "color": "#9333ea"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "df0eaf1a-7d8b-4700-ae50-45fa4dd9a6e4"
+      }
+    }
+  }
+}
