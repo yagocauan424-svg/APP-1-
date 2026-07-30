@@ -1,1 +1,5 @@
-{ "version": "1.1.0", "url": "https://expo.dev/artifacts/eas/sPIqILjg71fAfipDhoGjOftjRhBsi9a9X0ZfGgS170g.apk", "notes": "Bugs corrigidos!" }
+{
+  "version": "1.1.0",
+  "url": "https://expo.dev/artifacts/eas/sPIqILjg71fAfipDhoGjOftjRhBsi9a9X0ZfGgS170g.apk",
+  "notes": "Calendário corrigido, notificações mais precisas, tela de registro mais simples e app mais fluido ao trocar de aba."
+}
