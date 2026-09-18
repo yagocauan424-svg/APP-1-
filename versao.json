@@ -1,5 +1,8 @@
 {
   "version": "1.5.9",
-  "url": "",
-  "notes": ""
+  "url": "https://expo.dev/artifacts/eas/940lkYy2k1Jr2CbbIT8Q8idItkRh_DpRmcV5lO9O4hQ.apk",
+  "notes": "⚠️ Isto não é uma atualização comum — é um aviso. A comunidade 1% está se mudando para o Discord, onde vai rolar um desafio valendo PIX. Atualize para ver o aviso completo.",
+  "paused": true,
+  "pausedMessage": "A comunidade 1% continua ativa no Discord.",
+  "noticeUrl": "https://discord.gg/PwYnxE76Dd"
 }
